@@ -4,7 +4,7 @@
 Digital Forensics and Incident Response  
 International Cybersecurity and Digital Forensics Academy  
 
-# ICDFA-Digital-Forensics-and-Incident-Response-Labs 
+# ICDFA Digital Forensics and Incident Response-Labs 
 This repository contains hands‑on laboratory work completed as part of the
 Advanced Cybercrime Investigation program at the
 International Cybersecurity and Digital Forensics Academy (ICDFA).
